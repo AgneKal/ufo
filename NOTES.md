@@ -3,7 +3,7 @@
 1. npm init -y
 2. npm i -D dead-server
 3. package.json, isirasome script'a:
-   "dev": "dead-server"
+   "dev": "dead-server" // Pasikeisti i localhost ir pakeisti porta (jeigu reikia) -> "dev": "dead-server --host=localhost --port=9000"
 4. failai:
     - index.html
     - .gitignore
