@@ -1,9 +1,4 @@
-pvz: https://raw.githubusercontent.com/front-end-by-rimantas/48-grupe-coming-soon/20c4a185bcf07cd93104dc3338c0e1a865ea9509/README.md
-
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
-![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
-[![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
 # UFO
 
@@ -13,21 +8,16 @@ _website design project_
 
 ## 🌟 About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+This project is for educational porpuses only.
 
-Site published at: https://front-end-by-rimantas.github.io/48-grupe-coming-soon/
+Site published at: agnekal.github.io/ufo/
 
 Design: [UFO](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mode=media)
 
 ## 🎯 Project features/goals
 
 -   Github pages
--   git branch
--   responsive design
--   CSS animation
--   form
--   FontAwesome icons
--   CSS units: vh, vw, vmin, vmax
+-   NO responsive design
 
 ## 🧰 Getting Started
 
@@ -51,7 +41,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/48-grupe-coming-soon.git
+    git clone https://github.com/AgneKal/ufo.git
     ```
 2. Install NPM packages
     ```sh
@@ -70,9 +60,9 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 There is no tests for this project.
 
-## 🎅 Authors
+## 👩‍💻 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Agne: [Github](https://github.com/AgneKal)
 
 ## ⚠️ License
 
