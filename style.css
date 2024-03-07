@@ -17,6 +17,7 @@ body {
     min-width: 600px;
     display: flex;
     flex-direction: row;
+    margin:auto;
     justify-content:space-between;
     align-items: center;
 }
