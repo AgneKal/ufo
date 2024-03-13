@@ -9,7 +9,7 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
+    justify-content: center;
     align-items: center;
 }
 
@@ -18,8 +18,8 @@ body {
     display: flex;
     flex-direction: row;
     margin:auto;
-    justify-content:space-between;
     align-items: center;
+    gap: 30px;
 }
 
 .colomn {
