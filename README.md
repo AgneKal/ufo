@@ -1,5 +1,3 @@
-![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-
 # UFO
 
 _website design project_
